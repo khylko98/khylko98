@@ -2,8 +2,6 @@
 <h3 align="center">A developer from Ukraine</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khylko98&label=Profile%20views&color=0e75b6&style=flat" alt="khylko98" /> </p>
-
 - 📫 How to reach me **khylko98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
